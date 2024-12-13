@@ -63,6 +63,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
      <img src="https://img.shields.io/badge/instagram-@ma.hdi_3311-blue?logo=instagram"/>
    </a>
   </p>
+  <br/>
   
 
   
