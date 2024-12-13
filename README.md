@@ -56,8 +56,12 @@ Frontend Developer with over 1 years of experience in designing and developing w
 
   <p align="center">
    <img src="https://img.shields.io/badge/gmail-mahdihaidari1490@gmail.com-blue?logo=gmail"/>
+   <a href="https://t.me/Hi_Max_ss">
     <img src="https://img.shields.io/badge/telegram-@Hi_Max_ss-blue?logo=telegram"/>
-    <img src="https://img.shields.io/badge/instagram-@ma.hdi_3311-blue?logo=instagram"/>
+   </a>
+   <a href="https://instagram.com/ma.hdi_3311">
+     <img src="https://img.shields.io/badge/instagram-@ma.hdi_3311-blue?logo=instagram"/>
+   </a>
   </p>
   
 
