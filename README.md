@@ -19,7 +19,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
 - 
 <br/>
 
-<h3>🔧 &nbsp: Teck Stack</h3>
+<h3>🔧 &nbsp: skills</h3>
 
 
 
@@ -52,7 +52,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiHa"/>
   </a>
 
-  <h2>Connect Me</h2>
+  <h2>Social</h2>
 
   <p align="center">
    <img src="https://img.shields.io/badge/gmail-mahdihaidari1490@gmail.com-blue?logo=gmail"/>
