@@ -9,7 +9,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
 <!--Here are some ideas to get you started:-->
 
 
- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript 
 - 👯 I’m open to collaborate on React based projects
 - 🤔 I’m looking for help with javaScript & React js
 - 💬 Ask me about javaScript
