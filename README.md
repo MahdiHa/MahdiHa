@@ -17,7 +17,9 @@ Frontend Developer with over 1 years of experience in designing and developing w
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<br/>
+
+
+<hr>
 
 <h3>🔧 &nbsp: skills</h3>
 
