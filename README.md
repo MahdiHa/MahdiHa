@@ -29,10 +29,17 @@ Frontend Developer with over 1 years of experience in designing and developing w
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logo=css)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+ ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=TAILWINDCSS)
+ ![Tailwindcss](https://img.shields.io/badge/php-333333?logo=php)
+ ![Laravel](https://img.shields.io/badge/laravel-333333?logo=laravel)
+ ![Livewire](https://img.shields.io/badge/livewire-333333?logo=livewire)
+ ![Filaent](https://img.shields.io/badge/filament.php-333333?logo=filament)
+
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
