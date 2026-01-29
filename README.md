@@ -33,6 +33,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
+  ![Next](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=TAILWINDCSS)
  ![Tailwindcss](https://img.shields.io/badge/Php-333333?logo=php)
