@@ -38,7 +38,7 @@ Frontend Developer with over 1 years of experience in designing and developing w
  ![Tailwindcss](https://img.shields.io/badge/php-333333?logo=php)
  ![Laravel](https://img.shields.io/badge/laravel-333333?logo=laravel)
  ![Livewire](https://img.shields.io/badge/livewire-333333?logo=livewire)
- ![Filaent](https://img.shields.io/badge/filament.php-333333?logo=filament)
+   &nbsp;&nbsp; &nbsp;&nbsp;   ![Filaent](https://img.shields.io/badge/filament.php-333333?logo=filament)
 
  
 - 🛢 &nbsp;
