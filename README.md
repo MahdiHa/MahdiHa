@@ -3,7 +3,7 @@
 <h2> 👨‍💻 &nbsp; About Me </h2>
 
 <p>
-Frontend Developer with over 1 years of experience in designing and developing websites using modern technologies such as React, and TypeScript. I pay great attention to details & coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work. 
+Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, and TypeScript. I pay great attention to details & coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work. 
 </p>
 
 <!--Here are some ideas to get you started:-->
@@ -59,9 +59,11 @@ Frontend Developer with over 1 years of experience in designing and developing w
   <h2>✨ Github Stats </h2>
    
   <a href="https://github.com/MahdiHa">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahdiHa&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiHa"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MahdiHa&show_icons=true&theme=radical"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiHa"/> 
   </a>
+ 
+  
 
   <h2>Social</h2>
 
