@@ -3,7 +3,7 @@
 <h2> 👨‍💻 &nbsp; About Me </h2>
 
 <p>
-Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React, and TypeScript. I pay great attention to details & coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work. 
+Frontend Developer with over 3 years of experience in designing and developing websites using modern technologies such as React.js, Next.js, and TypeScript. I pay great attention to details & coding standards, striving to deliver the best possible results in my projects, both technically & in terms of user experience Tackling difficult challenges & finding appropriate & creative solutions for them is one of my favorite aspects of work. 
 </p>
 
 <!--Here are some ideas to get you started:-->
